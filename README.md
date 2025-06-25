@@ -32,5 +32,7 @@ Writing maintainable and readable code
 
 Enhancing user experience through UI feedback
 
-🌐 Live Demo | 📂 Project Files
+🌐 Live Demo - https://lnkd.in/dBmuiwVQ
+
+
 Developed during my internship at Skillcraft Technology as part of a learning challenge to build applications from scratch with core web technologies.
