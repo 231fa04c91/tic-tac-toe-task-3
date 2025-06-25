@@ -1,73 +1,36 @@
-# Welcome to your Lovable project
+# 🕹️ Tic-Tac-Toe Web Application
+A fully functional, responsive, and interactive Tic-Tac-Toe game built using pure HTML, CSS, and JavaScript — no libraries, no frameworks, just clean logic and modern UI.
 
-## Project info
+✨ Features:
+🎯 Player vs Player mode with real-time turn tracking
 
-**URL**: https://lovable.dev/projects/f9593a74-cd83-47b2-9895-f6ef6220b3cd
+✅ Win, draw detection, and automatic status updates
 
-## How can I edit this code?
+♻️ Restart game functionality to play multiple rounds
 
-There are several ways of editing your application.
+📱 Responsive design optimized for all devices
 
-**Use Lovable**
+⌨️ Interactive UI with keyboard input support (optional)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/f9593a74-cd83-47b2-9895-f6ef6220b3cd) and start prompting.
+💡 Modular, well-structured, and commented source code
 
-Changes made via Lovable will be committed automatically to this repo.
+🔧 Tech Stack:
+HTML5
 
-**Use your preferred IDE**
+CSS3
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Vanilla JavaScript
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+🚀 What I Learned:
+Game logic implementation
 
-Follow these steps:
+DOM manipulation and event handling
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Responsive layouts using CSS Grid/Flexbox
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Writing maintainable and readable code
 
-# Step 3: Install the necessary dependencies.
-npm i
+Enhancing user experience through UI feedback
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/f9593a74-cd83-47b2-9895-f6ef6220b3cd) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+🌐 Live Demo | 📂 Project Files
+Developed during my internship at Skillcraft Technology as part of a learning challenge to build applications from scratch with core web technologies.
